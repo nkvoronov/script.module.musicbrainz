@@ -18,5 +18,8 @@
 		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
 		<source>https://github.com/marcelveldt/script.module.musicbrainz</source>
 		<platform>all</platform>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 	</extension>
 </addon>
