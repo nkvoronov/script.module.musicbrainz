@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.module.musicbrainz"
 	name="Musicbrainz NGS webservice python bindings"
-	version="0.6.2.001"
+	version="0.6.2.002"
 	provider-name="marcelveldt">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -16,7 +16,8 @@
 		<description lang="ru_RU">Библиотека модулей Kodi для сборки Python веб-службы Musicbrainz 'NGS, разработанная alastair.</description>
 		<description lang="uk_UA">Бібліотека модулів Kodi для збірки Python веб-служби Musicbrainz 'NGS, розроблена alastair.</description>
 		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
-		<source>https://github.com/marcelveldt/script.module.musicbrainz</source>
+		<email>nkvoronov@gmail.com</email>
+		<source>https://github.com/nkvoronov/script.module.musicbrainz.git</source>
 		<platform>all</platform>
 		<assets>
 			<icon>resources/icon.png</icon>
